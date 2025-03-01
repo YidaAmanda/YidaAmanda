@@ -12,11 +12,8 @@
 <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YidaAmanda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YidaAmanda&theme=jolly) |
-| :-: | :-: |
-
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YidaAmanda&theme=jolly)
-| :-: |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YidaAmanda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YidaAmanda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YidaAmanda&theme=jolly)
+| :-: | :-: | :-: |
   
 </div>
 
