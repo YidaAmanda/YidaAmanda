@@ -1,21 +1,21 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=73b1ea"/>
 
 <div align="center">
   <p>飯田アマンダ</p>
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Be+Welcome!;I'm+a+computer+programming+student" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=73b1ea&width=900&size=30&center=true&lines=Be+Welcome!;I'm+a+computer+programming+student" alt="Typing SVG"/>
 </div>
 
 <br>
 <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YidaAmanda&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YidaAmanda&theme=jolly)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YidaAmanda&theme=prussian) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YidaAmanda&theme=prussian)
   | :-: | :-: |
   
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YidaAmanda&theme=jolly)
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YidaAmanda&theme=prussian)
   | :-: |
   
 </div>
@@ -50,7 +50,7 @@
 </div>
 
 <div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYidaAmanda&s=30&c=dd0afc&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FYidaAmanda&s=30&c=73b1ea&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p> 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=73b1ea&height=110&section=footer"/>
