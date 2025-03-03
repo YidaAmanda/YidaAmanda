@@ -9,7 +9,7 @@
 </div>
 
 <br>
-<br>
+
 <div align="center">
 
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YidaAmanda&theme=prussian) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YidaAmanda&theme=prussian)
@@ -41,9 +41,6 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
 </div>-->
-
-<br>
-<br>
 
 <div align="center">
   <img src="https://media.tenor.com/bEBr1fBNhusAAAAj/spinning-heart-transparent.gif" width="100">
