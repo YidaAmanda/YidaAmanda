@@ -23,7 +23,8 @@
 <div align="center">
 
   [![Gmail](https://img.shields.io/badge/Gmail-162647?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:yida.amanda@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-162647?style=for-the-badge&logo=linkedin&logoColor=fff)]([LINK](https://www.linkedin.com/in/amanda-yida-a035432b5/))
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-162647?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/amanda-yida-a035432b5/)
+  
   <!-- [![Instagram](https://img.shields.io/badge/Instagram-162647?style=for-the-badge&logo=instagram&logoColor=fff)](PERFIL INSTAGRAM) -->
   
 </div>
